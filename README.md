@@ -9,8 +9,7 @@ Neste Class Library você tem metodos prontos para consumir API CIELO 3.0
 
 
 ## Tecnologias
-
--   [ ] Framework C#
+-   [ ] Framework .NET C#
 - 	[ ] API Cielo 3.0
 
 ## 🔖 Dependencias
